@@ -1,3 +1,6 @@
+(All bugs have been fixed)
+
+
 # Instructions
 
 Welcome to Ramp's frontend interview challenge.
